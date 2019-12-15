@@ -7,4 +7,4 @@ RSpec.configure do |config|
   
   def flatiron_student 
     base_hash = {:name => "Julianna"}
-end
+    end
