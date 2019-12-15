@@ -8,3 +8,10 @@ RSpec.configure do |config|
   def flatiron_student 
     base_hash = {:name => "Julianna"}
     end
+    
+  def monopoly
+	  monopoly = {}		
+	  monopoly = {:railroads => {}}
+    end	
+    
+    end
