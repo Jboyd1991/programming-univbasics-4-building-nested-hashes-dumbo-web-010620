@@ -14,4 +14,3 @@ RSpec.configure do |config|
 	  monopoly = {:railroads => {}}
     end	
     
-    end
