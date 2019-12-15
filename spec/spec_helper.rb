@@ -3,8 +3,8 @@ require 'yaml'
 RSpec.configure do |config|
 
   def base_hash = Hash.new 
-    
-    
-  end
-
+    end
+  
+  def flatiron_student 
+    base_hash = 
 end
