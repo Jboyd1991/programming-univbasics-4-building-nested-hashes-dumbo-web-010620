@@ -6,5 +6,5 @@ RSpec.configure do |config|
     end
   
   def flatiron_student 
-    base_hash = 
+    base_hash = {:name => "Julianna"}
 end
