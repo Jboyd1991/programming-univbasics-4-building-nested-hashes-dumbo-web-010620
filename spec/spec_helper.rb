@@ -2,8 +2,8 @@ require 'yaml'
 
 RSpec.configure do |config|
 
-  def base_hash = {}
-    return base_hash = {}
+  def base_hash = Hash.new 
+    
     
   end
 
