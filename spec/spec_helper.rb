@@ -10,7 +10,6 @@ RSpec.configure do |config|
     end
     
   def monopoly
-	  monopoly = {}		
 	  monopoly = {:railroads => {}}
     end	
     
